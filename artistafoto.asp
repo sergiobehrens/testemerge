@@ -5,7 +5,7 @@
 <meta name="author" content="David Glat - davidglat@uol.com.br" />
 <meta name="copyright" content="Todos os Direitos Reservados a David Glat" />
 <meta name="description" content="Brinquedos que moram nos Sonhos" />
-<meta name="keywords" content="brinquedos, diversão, sonhos, David Glat, popular" />
+<meta name="keywords" content="brinquedos, diversï¿½o, sonhos, David Glat, popular" />
 <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
 <meta http-equiv="cache-control" content="no-cache" />
 <meta http-equiv="content-language" content="pt-br" />
@@ -51,7 +51,7 @@
                 saida = saida & "       <img src='imagens/autores/mini/" & rs("foto_autor") & "' border='0' />"
                 saida = saida & "   </a>"
                 saida = saida & "       <span style='font-size: 16pt;'>" & rs("nome_autor") & "</span><br /><span style='font-size: 14pt;'>" & rs("cid_autor") & "-" & rs("est_autor") & "</span>"
-                saida = saida & "       <br /><br /><a href='artistainfo.asp?id="&rs("id_autor")&"' alt='Informações sobre "&rs("nome_autor")&"' target='_self'><img src='imagens/biografia.png' border='0' /></a>"
+                saida = saida & "       <br /><br /><a href='artistainfo.asp?id="&rs("id_autor")&"' alt='Informaï¿½ï¿½es sobre "&rs("nome_autor")&"' target='_self'><img src='imagens/biografia.png' border='0' /></a>"
                 saida = saida & "   </div>"
                 saida = saida & "   <div style='width: 650px; float: right;'>"
                 
