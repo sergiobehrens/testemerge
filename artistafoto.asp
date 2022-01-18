@@ -1,7 +1,7 @@
 <!--#include file="functions.asp" -->
 <html>
 <head>
-<title>Museu do Brinquedo Popular</title>
+<title>Museu do Brinquedo Popular ASSIM</title>
 <meta name="author" content="David Glat - davidglat@uol.com.br" />
 <meta name="copyright" content="Todos os Direitos Reservados a David Glat" />
 <meta name="description" content="Brinquedos que moram nos Sonhos" />
